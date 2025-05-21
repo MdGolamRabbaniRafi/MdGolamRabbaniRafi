@@ -4,13 +4,13 @@
 <td width="50%" valign="top">
 <div>
 
-# &nbsp; **👋Hi, I'm Hossain**
+# &nbsp; **👋Hi, I'm Golam Rabbani Rafi**
 
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
   
 - 🔭 I'm presently practicing my back-end developing skills.
-- 🌱 Currently, my focus lies in mastering Angular.js and Nest.js, while diligently constructing projects that facilitate hands-on learning.
-- 👯 Seeking to contribute to the open source community, I eagerly welcome collaborations on TypeScript/Javascript projects.
+- 🌱 Currently, my focus lies in mastering .Net and Nest.js, while diligently constructing projects that facilitate hands-on learning.
+- 👯 Seeking to contribute to the open source community, I eagerly welcome collaborations on C#,TypeScript/Javascript projects.
 - 😄 With a passion for constant growth, I enjoy exploring novel skills and seamlessly integrating them into my project repertoire.
 
 </div>
@@ -20,13 +20,13 @@
 <h4> <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; For professional inquiries or meaningful conversations, please reach out to me at !!</h4>
 
 <p align="left">
-  <a href="mailto:awarehossain@gmail.com" >
+  <a href="mailto:golamrabbanirafi7@gmail.com" >
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="30px" height="30px">
   </a>
-  <a href="https://twitter.com/awarehossain" >
+  <!-- <a href="https://twitter.com/awarehossain" >
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30px" height="30px">
-  </a>
-  <a href="https://www.facebook.com/hkonir" >
+  </a> -->
+  <a href="https://www.facebook.com/golam.rabbani.rafi.2024/" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="30px" height="30px">
   </a>
 
@@ -38,7 +38,7 @@
 
 </div>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ho-ssain&label=Profile%20views&color=0e75b6&style=flat" alt="ho-ssain" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdGolamRabbaniRafi&label=Profile%20views&color=0e75b6&style=flat" alt="MdGolamRabbaniRafi" /> </p>
 
 </td>
 
@@ -46,8 +46,8 @@
 
 ### 🛠 &nbsp;Tech I Like
 <div align="center">
-<img src="./assets/angular-preview.png" height="30">
-<img src="./assets/NgRx-preview.png" height="30" >
+<img src="./assets/node-preview.png" height="30">
+<img src="./assets/nest-js-preview.png" height="30" >
 <img src="./assets/rxjs-preview.png" height="30">
 <img src="./assets/angular-material.png" height="30">
 <br>
@@ -82,8 +82,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho-ssain&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages">
+  <a href="https://github.com/MdGolamRabbaniRafi/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdGolamRabbaniRafi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages">
   </a>
 </div>
 
@@ -97,7 +97,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <h3>Featured Repository =: </h3> 
     <a href="https://github.com/ho-ssain/hkdev-MERN#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=hkdev-MERN&theme=github_dark#gh-dark-mode-only" alt="hkdev-MERN">
@@ -123,15 +123,15 @@
     <a href="https://github.com/ho-ssain/travel_app_lp#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=travel_app_lp&theme=vue#gh-light-mode-only" alt="travel_app_lp">
     </a>
-</div>
+</div> -->
 
   <h3 align="center"> GitHub Analytics =: </h3>  
   <p align="center">
-    <a href="https://github.com/ho-ssain/github-readme-stats" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=ho-ssain&show_icons=true&locale=en&theme=github_dark" alt="Anurag's GitHub stats">
+    <a href="https://github.com/MdGolamRabbaniRafi/github-readme-stats" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=MdGolamRabbaniRafi&show_icons=true&locale=en&theme=github_dark" alt="Anurag's GitHub stats">
     </a>
     <br/>
     <a href="https://git.io/streak-stats" target="_blank">
-      <img src="https://github-readme-streak-stats-sandy-omega.vercel.app?user=ho-ssain&theme=github-dark&border_radius=10" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats-sandy-omega.vercel.app?user=MdGolamRabbaniRafi&theme=github-dark&border_radius=10" alt="GitHub Streak">
     </a>
   </p>
