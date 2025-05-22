@@ -68,7 +68,7 @@
 <br>
 <img src="./assets/java-preview.png" height="30">
 <img src="./assets/css3.png" height="24">
-<img src="./assets/VisualStudioSetup-preview.png" height="30">
+<img src="./assets/VisualStudioSetup.png" height="30">
 <img src="./assets/git-bash-logo.png" height="25">
 <br>
 <img src="./assets/python-preview.png" height="30">
