@@ -48,31 +48,31 @@
 <div align="center">
 <img src="./assets/node-preview.png" height="30">
 <img src="./assets/nest-js-preview.png" height="30" >
-<img src="./assets/rxjs-preview.png" height="30">
-<img src="./assets/angular-material.png" height="30">
+<img src="./assets/.Net-preview.png" height="30">
+<img src="./assets/Spring-preview.png" height="30">
 <br>
-<img src="./assets/PrimeNG.png" height="30">
-<img src="./assets/sass.png" height="30">
-<img src="./assets/karma.png" height="30">
-<img src="./assets/jasmine.png" height="30">
+<img src="./assets/HTML-preview.png" height="30">
+<img src="./assets/tailwind-preview.png" height="30">
+<img src="./assets/Bootstrap-preview.png" height="30">
+<img src="./assets/javascript-preview.png" height="30">
 <br>
 <img src="./assets/node-preview.png" height="30">
 <img src="./assets/nest-js-preview.png" height="30">
 <img src="./assets/mysql.png" height="30">
-<img src="./assets/mgdb.png" height="30">
+<img src="./assets/CSharp-preview.png" height="30">
 <br>
 <img src="./assets/gql.png" height="30">
-<img src="./assets/jest.png" height="30">
-<img src="./assets/js.png" height="30">
+<img src="./assets/react-preview.png" height="30">
+<img src="./assets/cpanel-preview.png" height="30">
 <img src="./assets/ts-preview.png" height="30">
 <br>
-<img src="./assets/html5.png" height="30">
+<img src="./assets/java-preview.png" height="30">
 <img src="./assets/css3.png" height="24">
-<img src="./assets/linux.jpg" height="30">
+<img src="./assets/VisualStudioSetup-preview.png" height="30">
 <img src="./assets/git-bash-logo.png" height="25">
 <br>
-<img src="./assets/docker.png" height="30">
-<img src="./assets/kubernetes.png" height="30">
+<img src="./assets/python-preview.png" height="30">
+<img src="./assets/pgadmin4-preview.png" height="30">
 <img src="./assets/code.png" height="30">
 <img src="./assets/postman.png" height="30">
 </div>
