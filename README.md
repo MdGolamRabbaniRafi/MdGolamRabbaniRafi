@@ -48,16 +48,16 @@
 <div align="center">
 <img src="./assets/node-preview.png" height="30">
 <img src="./assets/nest-js-preview.png" height="30" >
-<img src="./assets/.Net-preview.png" height="30">
+<img src="./assets/Net-preview.png" height="30">
 <img src="./assets/Spring-preview.png" height="30">
 <br>
-<img src="./assets/HTML-preview.png" height="30">
+<img src="./assets/html5.png" height="30">
 <img src="./assets/tailwind-preview.png" height="30">
 <img src="./assets/Bootstrap-preview.png" height="30">
-<img src="./assets/javascript-preview.png" height="30">
+<img src="./assets/js.png" height="30">
 <br>
-<img src="./assets/node-preview.png" height="30">
-<img src="./assets/nest-js-preview.png" height="30">
+<img src="./assets/sql-preview.png" height="30">
+<img src="./assets/oracle-preview.png" height="30">
 <img src="./assets/mysql.png" height="30">
 <img src="./assets/CSharp-preview.png" height="30">
 <br>
