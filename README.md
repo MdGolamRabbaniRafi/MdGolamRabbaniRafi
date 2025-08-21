@@ -10,7 +10,7 @@
   
 - 🔭 I'm presently practicing my back-end developing skills.
 - 🌱 Currently, my focus lies in mastering .Net and Nest.js, while diligently constructing projects that facilitate hands-on learning.
-- 👯 Seeking to contribute to the open source community, I eagerly welcome collaborations on C#,TypeScript/Javascript projects.
+- 👯 Seeking to contribute to the open source community, I eagerly welcome collaborations on C#,Java,TypeScript/Javascript projects.
 - 😄 With a passion for constant growth, I enjoy exploring novel skills and seamlessly integrating them into my project repertoire.
 
 </div>
