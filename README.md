@@ -45,6 +45,7 @@
 <td width="50%" valign="top">
 
 ### 🛠 &nbsp;Tech I Like
+
 <div align="center">
 <img src="./assets/node-preview.png" height="30">
 <img src="./assets/nest-js-preview.png" height="30" >
@@ -68,7 +69,7 @@
 <br>
 <img src="./assets/java-preview.png" height="30">
 <img src="./assets/css3.png" height="24">
-<img src="./assets/VisualStudioSetup-preview.png" height="30">
+<img src="./assets/VisualStudioSetup.png" height="30">
 <img src="./assets/git-bash-logo.png" height="25">
 <br>
 <img src="./assets/python-preview.png" height="30">
@@ -87,18 +88,13 @@
   </a>
 </div>
 
-
-
 </td>
 </tr>
   
 </table>
 
-
-
-
 <!-- <div align="center">
-  <h3>Featured Repository =: </h3> 
+  <h3>Featured Repository =: </h3>
     <a href="https://github.com/ho-ssain/hkdev-MERN#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=ho-ssain&repo=hkdev-MERN&theme=github_dark#gh-dark-mode-only" alt="hkdev-MERN">
     </a>
@@ -135,3 +131,15 @@
       <img src="https://github-readme-streak-stats-sandy-omega.vercel.app?user=MdGolamRabbaniRafi&theme=github-dark&border_radius=10" alt="GitHub Streak">
     </a>
   </p>
+  
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdGolamRabbaniRafi&theme=react-dark&hide_border=true&area=true" width="100%">
+</p>
+
+<h3 align="center">📋 Profile Summary</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdGolamRabbaniRafi&theme=github_dark">
+</p>
