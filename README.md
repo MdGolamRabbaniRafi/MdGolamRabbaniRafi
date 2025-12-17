@@ -98,7 +98,7 @@
 
 <td width="50%" align="center" valign="top">
 
-<h3>📊 GitHub Analytics =:</h3>
+<h3>📊 GitHub Analytics </h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MdGolamRabbaniRafi&show_icons=true&theme=github_dark" />
 
